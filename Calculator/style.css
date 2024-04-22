@@ -39,7 +39,7 @@ input{
     justify-content: space-around;
     align-items: center;
 }
-button{
+.button{
     height: 4rem;
     width: 4rem;
     border: none;
